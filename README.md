@@ -1,2 +1,2 @@
 # googlecodejam
-my solutions to google code jam problem
+my solutions to google code jam problems
